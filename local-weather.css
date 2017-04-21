@@ -1,0 +1,52 @@
+body{
+  background-size: 70% 80% !important;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  font-family: cambria;
+
+}
+
+
+.container{
+  display: flex;
+  align-items: center;
+  width: 70%;
+  height: 80%;
+}
+
+
+.container-fluid{
+  background-color: black;
+  opacity: 0.5;
+  color: white;
+  padding: 1.5vh 1.5vw 1.5vh 1.5vw;
+  border: 1px solid black;
+  line-height: 5vh;
+  height: 70%;
+}
+
+ul {
+  font-size: 2.5vh;
+}
+
+li:first-child {
+  font-size: 3vh;
+  padding-bottom: 2vh;
+}
+
+li:first-of-type + li{
+  padding-bottom: 2vh;
+}
+
+#degreesign {
+  text-decoration: none;
+  font-size: 3vh;
+  color: red;
+  
+}
+
+#degreesign:hover {
+  text-decoration: none;
+  font-weight: bold;
+}
