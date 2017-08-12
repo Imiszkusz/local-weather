@@ -12,4 +12,4 @@ HTML/CSS/Pure JS
 
 
 ## Live View
-http://jsbin.com/waneyan/165/edit?output
+http://jimremat.net16.net/index.html
